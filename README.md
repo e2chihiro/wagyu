@@ -1,4 +1,4 @@
 wagyu
 =====
 
-Niku
+Niku tabetai
