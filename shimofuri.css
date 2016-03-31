@@ -3,13 +3,6 @@
 }
 .shimofuri{
 	background: #E28CA0;
-	float:left;
-}
-.golden-pork{
-	color:  #E28CA0;
-}
-#saiboku{
-	display: block;
 }
 .golden-pork{
 	color:  #E28CA0;
@@ -17,4 +10,7 @@
 #saiboku{
 	display: block;
 	width: 100px;
+}
+.niku{
+	background: #000;
 }
